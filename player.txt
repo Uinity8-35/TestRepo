@@ -1,5 +1,15 @@
+
 player code수정하번더
+<<<<<<< HEAD
 한번한번
 
 한반더수정
+<<<<<<< Updated upstream
 TNWJDNWJD
+=======
+TNWJDNWJD
+
+=======
+한번한번
+>>>>>>> parent of 8b47f7f (2222)
+>>>>>>> Stashed changes
