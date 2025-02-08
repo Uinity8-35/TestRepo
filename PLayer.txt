@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Player Class 생성
+
+추가로직 작성
+=======
+Player Class 생성
+>>>>>>> Develop
