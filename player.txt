@@ -3,4 +3,8 @@ player code수정하번더
 
 한반더수정ㄴㅁㅇㅁㄴㅇㅇㅇㅇ
 
+<<<<<<< Updated upstream
 ㅇㅇㅇㅇㅇ
+=======
+ㅇㅇㅇㅇㅇ
+>>>>>>> Stashed changes
